@@ -45,7 +45,7 @@
 
 ```
 # 克隆项目
-git clone git@github.com:gcddblue/vue-admin-webapp.git
+git clone https://github.com/Youthgogo/vue-admin-webapp.git
 
 # 进入项目目录
 cd vue-admin-webapp
